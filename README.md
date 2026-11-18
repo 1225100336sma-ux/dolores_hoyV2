@@ -33,7 +33,7 @@ En cada ronda se escribe primero la prueba, se ve fallar (rojo), se implementa l
 
 **Verde:** con `cliente_seguro.dart` implementado, la prueba pasa.
 
-![Ronda 1 verde](capturas/ronda1_verde.png)
+![Ronda 1 verde](capturas/tonda1_verde.png)
 
 ### Ronda 2: Seguridad (claves y configuración)
 **Rojo:**
